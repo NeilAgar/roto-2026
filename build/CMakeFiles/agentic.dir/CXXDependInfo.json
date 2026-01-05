@@ -1,0 +1,109 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Release",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/Users/neilagarwal/Documents/Scioly/robot-tour-2026/build",
+	"dir-cur-src" : "/Users/neilagarwal/Documents/Scioly/robot-tour-2026",
+	"dir-top-bld" : "/Users/neilagarwal/Documents/Scioly/robot-tour-2026/build",
+	"dir-top-src" : "/Users/neilagarwal/Documents/Scioly/robot-tour-2026",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		".",
+		"/Users/neilagarwal/Documents/Scioly/robot-tour-2026/lib",
+		"/Users/neilagarwal/Documents/Scioly/robot-tour-2026",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_atomic/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/lib/tinyusb/src",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/common/pico_stdlib_headers/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_gpio/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/common/pico_base_headers/include",
+		"generated/pico_base",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/boards/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2040/pico_platform/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2040/hardware_regs/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_base/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_common/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_compiler/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_panic/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_sections/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2040/hardware_structs/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/common/hardware_claim/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync_spin_lock/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_uart/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_resets/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_clocks/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pll/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_vreg/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_watchdog/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_ticks/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/common/boot_picoboot_headers/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/boot_bootrom_headers/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_boot_lock/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_flash/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/common/pico_time/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_timer/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/common/pico_sync/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/common/pico_util/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_time_adapter/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_divider/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/common/pico_bit_ops_headers/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/common/pico_divider_headers/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_malloc/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/common/pico_binary_info/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_printf/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_unique_id/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_flash/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xip_cache/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/common/pico_usb_reset_interface_headers/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_multicore/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/common/boot_picobin_headers/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_int64_ops/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_mem_ops/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2040/boot_stage2/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_spi/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_i2c/include",
+		"/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pio/include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/Users/neilagarwal/Documents/Scioly/robot-tour-2026/build/CMakeFiles/agentic.dir",
+	"sources" : 
+	{
+		"CMakeFiles/agentic.dir/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cxx_options/new_delete.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/neilagarwal/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cxx_options/new_delete.cpp"
+		},
+		"CMakeFiles/agentic.dir/lib/stepper.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/neilagarwal/Documents/Scioly/robot-tour-2026/lib/stepper.cpp"
+		},
+		"CMakeFiles/agentic.dir/lib/tmc2209.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/neilagarwal/Documents/Scioly/robot-tour-2026/lib/tmc2209.cpp"
+		},
+		"CMakeFiles/agentic.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/neilagarwal/Documents/Scioly/robot-tour-2026/main.cpp"
+		}
+	}
+}
